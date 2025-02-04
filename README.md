@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=xximdarioxx&label=Profile%20views&color=0e75b6&style=flat" alt="xximdarioxx" /> </p>
 
-- 🌱 I’m currently learning **Node js**
+- 🌱 I’m currently learning **Cybersecurity**
 
-- 💬 Ask me about **Html, Javascrip, Css**
+- 💬 Ask me about **Docker**
 
 - 📫 How to reach me **dariospain1132@gmail.com**
 
